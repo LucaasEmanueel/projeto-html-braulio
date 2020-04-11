@@ -1,0 +1,27 @@
+body{
+	font: 16px, "Lucida Console", Courier, monospace;
+	text-align: center;
+}
+#principal{
+	color: #000066;
+	width: 900px;
+	margin: 0 auto;
+}
+#menu{
+	padding: 18px;
+	background: #8B4513;
+	text-align: center;
+}
+#menu a{
+	color: #000066;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+h4{
+	font-weight: bold;
+	background: #8B4513;
+}
+#conteudo h1,h2{
+	font-family: Bradley Hand, cursive;
+}
